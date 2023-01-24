@@ -20,7 +20,7 @@
 
 <img src="testpic\2-01.png">
 
-- 部分构字部件的异写法、简便写法。
+- 部分构字部件的异写、简便写法。
 
 <img src="testpic\2-02.png">
 
@@ -37,6 +37,8 @@
 计划设计内容：
 
 - 基本拉丁文
+
+<img src="testpic\e.png">
 
 - 汉字
 
